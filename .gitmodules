@@ -1,0 +1,6 @@
+[submodule "backend-alquran-content-video"]
+	path = backend-alquran-content-video
+	url = https://github.com/MDF05/backend-alquran-content-video.git
+[submodule "frontend-alquran-video-content"]
+	path = frontend-alquran-video-content
+	url = https://github.com/MDF05/frontend-alquran-video-content.git
